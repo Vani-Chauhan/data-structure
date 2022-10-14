@@ -8,7 +8,6 @@ int main()
 int a[30],n,i;
 printf("Enter no of elements:");
 scanf("%d",&n);
-printf("SATYA PATHAK\n");
 printf("Enter array elements:");
 for(i=0;i<n;i++)
 scanf("%d",&a[i]);
